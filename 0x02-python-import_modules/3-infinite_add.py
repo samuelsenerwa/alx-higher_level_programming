@@ -5,7 +5,7 @@ if __name__ == "__main__":
 
     import sys
 
-    toatal = 0
+    total = 0
     for i  in range(len(sys.argv) - 1):
-        toatal += int(sys.argv[i + 1])
+        total += int(sys.argv[i + 1])
         print("{}".format(total))
