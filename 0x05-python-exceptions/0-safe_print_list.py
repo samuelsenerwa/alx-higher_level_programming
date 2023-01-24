@@ -1,13 +1,13 @@
 #!/usr/bin/python3
 
-def safe_print_lst(my_list=[], x=0):
+def safe_print_list(my_list=[], x=0):
     """Print x elements of a list
 
     Args:
     my_list (list): The list to print elements from
-    x (nt): The number of elements of my_list to prnt
+    x (int): The number of elements of my_list to prnt
 
-    Retunrns:
+    Returns:
     The number of elements to be printed.
     """
     ret = 0
