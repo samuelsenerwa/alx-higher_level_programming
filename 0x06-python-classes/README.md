@@ -67,5 +67,16 @@
   </ul> <br>
   <li><b>8. Print Square instance</b></li><br>
   <ul>
-  <li><a href="">101-square.py:</a> Python class <li>Square</li> that defines a square. Builds on <a href="">6-square.py</a> with:
+  <li><a href="">101-square.py:</a> Python class <code>Square</code> that defines a square. Builds on <a href="">6-square.py</a> with:
 Method <code>__str__ </code>to set printing of a Square instance equivalent to <code>my_print()</code>.</li>
+  </ul><br>
+  <li><b>9. Compare 2 squares</b></li><br>
+  <ul>
+    <li><a href="">102-square.py:</a> Python class <code>Square</code> that defines a square. Builds on <a href="">101-square.py</a> with:
+      Methods <code>__eq__</code>, <code>__ne__</code>, <code>__lt__</code>, <code>__le__</code>, <code>__gt__</code>, and <code>__ge__</code>, to enable usage of Square instances with logical operators <code>==</code>, <code>!=</code>, <code><</code>, <code><=</code>, <code>></code>, and <code>>=</code>, respectively, based on the square area.</li>
+  </ul><br>
+    <li><b>10. ByteCode -> Python</b></li>
+    <ul>
+      <li><a href="">103-magic_class.py:</a> Python function matching exactly a bytecode provided.</li>
+    </ul>
+  </ul>
