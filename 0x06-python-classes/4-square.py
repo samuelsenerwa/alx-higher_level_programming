@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 
-"""Defines a Sqaure."""
+"""Defines a Square."""
 
 
-class Sqaure:
+class Square:
     """Represents a sqaure."""
 
     def __init__(self, size=0):
