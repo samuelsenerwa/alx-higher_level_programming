@@ -106,6 +106,8 @@
 
 <li><b>10. N Queens</b></li>
   
+  ![readme3](https://user-images.githubusercontent.com/66512735/216452181-8327a2e9-f806-4076-b427-a42d301f04a1.jpeg)
+  
  <ul>
    <li><a href = "">101-nqueens.py</a>: Python program that solves the <a href="">N queens puzzle</a>.</li>
    <ul>
