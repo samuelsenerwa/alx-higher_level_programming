@@ -2,6 +2,11 @@
 
 In this project, we began working on relational databases. I started practising introductory SQL data definitions and data manipulation language, making subqueries, and using functions.
 
+<br>
+
+![rtcwz](https://user-images.githubusercontent.com/66512735/225398773-684c0743-0819-4b3f-bb10-2e49fab509d6.jpg)
+
+
 ## Tasks :page_with_curl:
 
 * **0. List databases**
